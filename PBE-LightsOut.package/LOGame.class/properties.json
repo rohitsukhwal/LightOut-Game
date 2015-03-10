@@ -1,0 +1,16 @@
+{
+	"category" : "PBE-LightsOut",
+	"classinstvars" : [
+		"cellsPerSide",
+		"cells",
+		"n" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "rohitsharma 3/11/2015 01:17",
+	"instvars" : [
+		"cells" ],
+	"name" : "LOGame",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }
