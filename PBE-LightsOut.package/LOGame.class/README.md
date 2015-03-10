@@ -3,3 +3,4 @@ Click on a box will toggle colour of all adjacent 4 boxes.
 Player have to maximize the number of blue box.
 
 To start the game type "LOGame open" in worksapce.
+To exit use "LOGame close".
